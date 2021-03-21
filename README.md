@@ -1,3 +1,3 @@
 # michailmarkou
-portfolio michail markou &nbsp;
+portfolio michail markou
 https://jotunmichael.github.io/michailmarkou/
