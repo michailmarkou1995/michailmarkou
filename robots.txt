@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 Allow: /
 Disallow: /ABOUT/
-Sitemap: https://jotunmichael.github.io/michailmarkou/sitemap.xml
+Sitemap: https://michailmarkou1995.github.io/michailmarkou/sitemap.xml
