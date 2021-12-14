@@ -1,3 +1,3 @@
 # michailmarkou
 portfolio michail markou
-https://jotunmichael.github.io/michailmarkou/
+https://michailmarkou1995.github.io/michailmarkou/
